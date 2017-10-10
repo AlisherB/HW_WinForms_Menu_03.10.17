@@ -1,0 +1,20 @@
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\HW_WinForms_Menu_03.10.17\HW_WinForms_Menu_03.10.17\Meeting6_Task2_Explorer\bin\Debug\Meeting6_Task2_Explorer.exe.config
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\HW_WinForms_Menu_03.10.17\HW_WinForms_Menu_03.10.17\Meeting6_Task2_Explorer\bin\Debug\Meeting6_Task2_Explorer.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\HW_WinForms_Menu_03.10.17\HW_WinForms_Menu_03.10.17\Meeting6_Task2_Explorer\bin\Debug\Meeting6_Task2_Explorer.pdb
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\HW_WinForms_Menu_03.10.17\HW_WinForms_Menu_03.10.17\Meeting6_Task2_Explorer\obj\Debug\Meeting6_Task2_Explorer.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\HW_WinForms_Menu_03.10.17\HW_WinForms_Menu_03.10.17\Meeting6_Task2_Explorer\obj\Debug\Meeting6_Task2_Explorer.Explorer.resources
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\HW_WinForms_Menu_03.10.17\HW_WinForms_Menu_03.10.17\Meeting6_Task2_Explorer\obj\Debug\Meeting6_Task2_Explorer.Properties.Resources.resources
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\HW_WinForms_Menu_03.10.17\HW_WinForms_Menu_03.10.17\Meeting6_Task2_Explorer\obj\Debug\Meeting6_Task2_Explorer.csproj.GenerateResource.Cache
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\HW_WinForms_Menu_03.10.17\HW_WinForms_Menu_03.10.17\Meeting6_Task2_Explorer\obj\Debug\Meeting6_Task2_Explorer.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\HW_WinForms_Menu_03.10.17\HW_WinForms_Menu_03.10.17\Meeting6_Task2_Explorer\obj\Debug\Meeting6_Task2_Explorer.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\HW_WinForms_Menu_03.10.17\HW_WinForms_Menu_03.10.17\Meeting6_Task2_Explorer\obj\Debug\Meeting6_Task2_Explorer.pdb
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Menu_03.10.17\HW_WinForms_Menu_03.10.17\Meeting6_Task2_Explorer\bin\Debug\Meeting6_Task2_Explorer.exe.config
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Menu_03.10.17\HW_WinForms_Menu_03.10.17\Meeting6_Task2_Explorer\bin\Debug\Meeting6_Task2_Explorer.exe
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Menu_03.10.17\HW_WinForms_Menu_03.10.17\Meeting6_Task2_Explorer\bin\Debug\Meeting6_Task2_Explorer.pdb
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Menu_03.10.17\HW_WinForms_Menu_03.10.17\Meeting6_Task2_Explorer\obj\Debug\Meeting6_Task2_Explorer.Explorer.resources
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Menu_03.10.17\HW_WinForms_Menu_03.10.17\Meeting6_Task2_Explorer\obj\Debug\Meeting6_Task2_Explorer.Properties.Resources.resources
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Menu_03.10.17\HW_WinForms_Menu_03.10.17\Meeting6_Task2_Explorer\obj\Debug\Meeting6_Task2_Explorer.csproj.GenerateResource.Cache
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Menu_03.10.17\HW_WinForms_Menu_03.10.17\Meeting6_Task2_Explorer\obj\Debug\Meeting6_Task2_Explorer.csproj.CoreCompileInputs.cache
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Menu_03.10.17\HW_WinForms_Menu_03.10.17\Meeting6_Task2_Explorer\obj\Debug\Meeting6_Task2_Explorer.exe
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Menu_03.10.17\HW_WinForms_Menu_03.10.17\Meeting6_Task2_Explorer\obj\Debug\Meeting6_Task2_Explorer.pdb
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Menu_03.10.17\HW_WinForms_Menu_03.10.17\Meeting6_Task2_Explorer\obj\Debug\Meeting6_Task2_Explorer.csprojResolveAssemblyReference.cache
